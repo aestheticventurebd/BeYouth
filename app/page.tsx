@@ -120,7 +120,7 @@ export default function HomePage() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>&copy; {new Date().getFullYear()} Be-Youth. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Be-Youth. All rights reserved by Aesthetic Venture.</p>
       </footer>
     </>
   );
