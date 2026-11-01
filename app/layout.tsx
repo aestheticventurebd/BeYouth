@@ -18,10 +18,10 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://aestheticventurebd.com'),
-  title: 'Be-Youth',
+  title: 'beyouth',
   description: 'Care for Your Skin, All Day Long.',
-  keywords: ['Be-Youth', 'Skincare', 'Dhaka', 'Bangladesh'],
-  authors: [{ name: 'Be-Youth' }],
+  keywords: ['beyouth', 'Skincare', 'Dhaka', 'Bangladesh'],
+  authors: [{ name: 'beyouth' }],
   robots: {
     index: true,
     follow: true,
