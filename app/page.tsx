@@ -82,7 +82,7 @@ export default function HomePage() {
               <div className="info-content">
                 <span className="info-label">Our Location</span>
                 <p className="info-value">
-                  Plot-33, Kallayanpur Main Road.
+                 3/8 (4ᵗʰ Floor), North Pirerbag
                   <br />
                   Mirpur, Dhaka -1207.
                 </p>
